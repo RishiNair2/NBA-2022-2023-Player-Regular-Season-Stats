@@ -15,4 +15,4 @@ I am tasked with:
 
 Main Datasets Analyzed:
 - 2022-2023 NBA Regular Season Player- Stat-Based Queries- Defensive/Misc
-- 2022-2023 NBA Regular Season Player- Stat-Based Queries- Offensive/Scoring
+- 2022-2023 NBA Regular Season Player Stats Offensive:Misc Stat-Based Queries.sql
