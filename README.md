@@ -14,5 +14,5 @@ I am tasked with:
 -  Cleaning the dataset in Excel.
 
 Main Datasets Analyzed:
-- 2022-2023 NBA Regular Season Player- Stat-Based Queries- Defensive/Misc
+- 2022-2023 NBA Regular Season Player Stats Defensive:Misc Stat-Based Queries.sql
 - 2022-2023 NBA Regular Season Player Stats Offensive:Misc Stat-Based Queries.sql
